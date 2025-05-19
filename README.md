@@ -1,0 +1,1 @@
+A toy example to build mcp server using fastmcp
